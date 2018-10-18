@@ -1,6 +1,7 @@
 import sys
 
 def sentiment_words_input(words):
+
   scores = {}
   for line in words:
     l = line.lower()
