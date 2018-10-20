@@ -4,6 +4,7 @@ def sentiment_words_input(words):
 
   scores = {}
   for line in words:
+    
     l = line.lower()
     term, score = l.split("\t")
     scores[term] = int(score)
