@@ -1,2 +1,2 @@
 # What-People-Think
-Cloud Mini Project
+Cloud Mini Project for learning
